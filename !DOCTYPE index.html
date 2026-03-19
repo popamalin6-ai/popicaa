@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PORNO POPICA CU PUTA MICA</title>
+</head>
+<body>
+
+    <h1>popica suge pula!</h1>
+    <p>popa malin o suge cu tot cu masa.</p>
+
+</body>
+</html>
+<h1>Main Title</h1>
+<h2>Subtitle</h2>
+<p>This is a paragraph.</p>
+<style>
+    body {
+        background-color: lightblue;
+        font-family: Arial;
+    }
+    h1 {
+        color: darkblue;
+    }
+</style>
